@@ -2,7 +2,7 @@
 <h3>Name: NIRAUNJANA GAYATHRI G R</h3>
 <h3>Register Number: 212222230096</h3>
 <H3>Aim:</H3>
-<p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
+<p>To Implement A * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
 
 ``````
