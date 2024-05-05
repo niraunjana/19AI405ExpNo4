@@ -1,6 +1,10 @@
-<h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: NIRAUNJANA GAYATHRI G R</h3>
-<h3>Register Number: 212222230096</h3>
+<h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1>
+
+```
+Name: NIRAUNJANA GAYATHRI G R
+Register Number: 212222230096
+```
+
 <H3>Aim:</H3>
 <p>To Implement A * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
@@ -157,9 +161,7 @@ aStarAlgo('S', 'G')
 <hr>
 <h2>Sample Graph I</h2>
 <hr>
-
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
-
+![image](https://github.com/niraunjana/19AI405ExpNo4/assets/119395610/b9525f0d-caef-4cb6-96ab-6772edb98bee)
 <hr>
 <h2>Sample Input</h2>
 <hr>
@@ -192,15 +194,11 @@ J 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
-
-
 <hr>
 <h2>Sample Graph II</h2>
 <hr>
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
-
-
 <hr>
 <h2>Sample Input</h2>
 <hr>
