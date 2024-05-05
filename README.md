@@ -158,10 +158,10 @@ print(graph)
 aStarAlgo('S', 'G')
 ```
 
-<hr>
-<h2>Sample Graph I</h2>
-<hr>
-(https://github.com/niraunjana/19AI405ExpNo4/assets/119395610/78118240-1163-4aae-8f3a-596256f5b2ce)
+
+## Sample Graph I
+
+![277152712-acbb09cb-ed39-48e5-a59b-2f8d61b978a3](https://github.com/niraunjana/19AI405ExpNo4/assets/119395610/ee9bb08b-aa72-4b22-9009-b727103e2691)
 
 
 
