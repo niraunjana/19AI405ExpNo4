@@ -161,7 +161,8 @@ aStarAlgo('S', 'G')
 <hr>
 <h2>Sample Graph I</h2>
 <hr>
-![image](https://github.com/niraunjana/19AI405ExpNo4/assets/119395610/b9525f0d-caef-4cb6-96ab-6772edb98bee)
+![277151990-b1377c3f-011a-4c0f-a843-516842ae056a](https://github.com/niraunjana/19AI405ExpNo4/assets/119395610/97d514a3-223c-4cbe-88df-42589ae0abcb)
+
 <hr>
 <h2>Sample Input</h2>
 <hr>
