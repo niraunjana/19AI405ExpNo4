@@ -161,8 +161,7 @@ aStarAlgo('S', 'G')
 
 ## Sample Graph I
 
-![277152712-acbb09cb-ed39-48e5-a59b-2f8d61b978a3](https://github.com/niraunjana/19AI405ExpNo4/assets/119395610/ee9bb08b-aa72-4b22-9009-b727103e2691)
-
+![277151990-b1377c3f-011a-4c0f-a843-516842ae056a](https://github.com/niraunjana/19AI405ExpNo4/assets/119395610/643a5f6f-b616-473a-8c65-d5eea511cb04)
 
 
 <hr>
@@ -197,11 +196,11 @@ J 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
-<hr>
-<h2>Sample Graph II</h2>
-<hr>
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
-<hr>
+
+## Sample Graph II
+
+![277152712-acbb09cb-ed39-48e5-a59b-2f8d61b978a3](https://github.com/niraunjana/19AI405ExpNo4/assets/119395610/d0043183-42a0-416b-894d-3d0a6c5de7d9)
+
 <h2>Sample Input</h2>
 <hr>
 6 6 <br>
