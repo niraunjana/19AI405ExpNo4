@@ -161,8 +161,7 @@ aStarAlgo('S', 'G')
 <hr>
 <h2>Sample Graph I</h2>
 <hr>
-
-![WhatsApp Image 2024-05-05 at 13 46 44_e76dd851]
+(https://github.com/niraunjana/19AI405ExpNo4/assets/119395610/78118240-1163-4aae-8f3a-596256f5b2ce)
 
 
 
